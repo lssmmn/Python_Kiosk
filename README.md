@@ -1,2 +1,2 @@
 # Python_Kiosk
-Python_Pc Room_Kiosk project 
+Python PC Room Kiosk Project
